@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pluckypioneer.
+- 👋 Hi, I’m @John Zheng.
 - 🚩 Nationality:China 🇨🇳
 - 📖 I'm learning C,C++, Python, Matlab.
 - 👀 I’m interested in Reading and Running.
