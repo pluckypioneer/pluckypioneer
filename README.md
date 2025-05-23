@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @John Zheng.
-- 🚩 Nationality:China 🇨🇳
+- 🚩 Nationality:China :flag_china:
 - 📖 I'm learning C,C++, Python, Matlab.
 - 👀 I’m interested in Reading and Running.
 - 🌱 I’m majoring BME in Southern Medical University.
