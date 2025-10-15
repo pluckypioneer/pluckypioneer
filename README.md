@@ -4,7 +4,7 @@
 - 👀 I’m interested in Reading📚️ and Running🏃.  
 - 🌱 I’m majoring [BME](https://en.wikipedia.org/wiki/Biomedical_engineering) in [Southern Medical University](https://www.smu.edu.cn/).
 - 💞️ I’m looking to collaborate on ...I don't know.
-- 📫 Email: JohnZheng2005@proton.me
+- 📫 Email: zhengyuhang2005@gmail.com
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
