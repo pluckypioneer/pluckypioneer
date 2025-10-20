@@ -4,7 +4,7 @@
 
 ### 📣Print("Hello World!")
 
-Hello! I'm **Yuhang(John) Zheng** , a **Biomedical Engineering** student with a passion for technology and innovation.
+Hello! I'm **Y.H(John) Zheng** , a **Biomedical Engineering** student with a passion for technology and innovation.
 
 I enjoy exploring the intersection of biology, medicine, and engineering to develop solutions that improve healthcare.
 
