@@ -9,8 +9,23 @@ Hello! I'm **Yuhang(John) Zheng** , a **Biomedical Engineering** student with a 
 I enjoy exploring the intersection of biology, medicine, and engineering to develop solutions that improve healthcare.
 
 At the same time, I am also striving to become an amateur full-stack software engineer.  
-  
+<br/>  
 
+## 🌌WHO I AM  
+<table><tr><td valign="top" width="50%">
+
+- 🚩Nationality: China  
+  
+- 🌱 I’m majoring [BME](https://en.wikipedia.org/wiki/Biomedical_engineering) in [Southern Medical University](https://www.smu.edu.cn/).  
+
+- 📖 I'm learning C, C++, Python , MATLAB , Embedded , Web3...  
+
+- 👀 I’m interested in Reading📚️ and Running🏃.  
+  
+- 📫 Email: zhengyuhang2005@gmail.com  
+
+- 😄 Pronouns: He/Him
+  
 <div align="center">
 <a href="https://github.com/pluckypioneer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -28,25 +43,6 @@ At the same time, I am also striving to become an amateur full-stack software en
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## 🌌WHO I AM  
-<table><tr><td valign="top" width="50%">
-
-- 🚩Nationality: China  
-  
-- 🌱 I’m majoring [BME](https://en.wikipedia.org/wiki/Biomedical_engineering) in [Southern Medical University](https://www.smu.edu.cn/).  
-
-- 📖 I'm learning C, C++, Python , MATLAB , Embedded , Web3...  
-
-- 👀 I’m interested in Reading📚️ and Running🏃.  
-  
-- 📫 Email: zhengyuhang2005@gmail.com  
-
-- 😄 Pronouns: He/Him  
 
 </td><td valign="top" width="50%">
   
@@ -90,13 +86,13 @@ At the same time, I am also striving to become an amateur full-stack software en
 ## 📊Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pluckypioneer&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100% height: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pluckypioneer&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluckypioneer&hide_border=true&layout=compact&theme=radical" align="left" style="width: 80% height:100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluckypioneer&hide_border=true&layout=compact&theme=transparent&langs_count=10" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
