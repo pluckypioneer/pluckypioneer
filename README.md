@@ -30,7 +30,7 @@ At the same time, I am also striving to become an amateur full-stack software en
 <a href="https://github.com/pluckypioneer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31717266/john-zheng" target="_blank">
+<a href="https://stackoverflow.com/users/john-zheng" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/john-zheng-b7a83028a" target="_blank">
