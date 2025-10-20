@@ -96,26 +96,23 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 <br/>  
 
-<div align="left">
+<div align="left" style="font-size: 0;">
             <a href="https://paypal.me/yuhang05" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
                 />
-            </a>
-            <a href="bitcoin:bc1p3y9mskv67qq96j6ulm8yunup7gq2ksg8l2kw5pktmucxzyhqrwus7supvg" target="_blank" style="display: inline-block;">
+            </a><a href="bitcoin:bc1p3y9mskv67qq96j6ulm8yunup7gq2ksg8l2kw5pktmucxzyhqrwus7supvg" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-BTC-F7931A.svg?style=flat-square&logo=bitcoin"
                     align="left"
                 />
-            </a>
-            <a href="ethereum:0x2aa1308a4ce8671870ff5984c0b9b5fbf56b597e" target="_blank" style="display: inline-block;">
+            </a><a href="ethereum:0x2aa1308a4ce8671870ff5984c0b9b5fbf56b597e" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-ETH-gray.svg?style=flat-square&logo=ethereum"
                     align="left"
                 />
-            </a>
-            <a href="tron:TS7r9VbqZ5oZyLHsocD6s7TeP1sKprho7H" target="_blank" style="display: inline-block;">
+            </a><a href="tron:TS7r9VbqZ5oZyLHsocD6s7TeP1sKprho7H" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-USDT%20(ERC20)-26A17B.svg?style=flat-square&logo=tether"
                     align="left"
