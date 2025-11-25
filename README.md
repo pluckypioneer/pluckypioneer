@@ -119,6 +119,8 @@ At the same time, I am also striving to become an amateur full-stack software en
      <img src="https://img.shields.io/badge/Donate-USDT%20(TRC20)-26A17B.svg?style=flat-square&logo=tron" />
   </a>  
   
+  > **钱包地址**：0x2aa1308a4ce8671870ff5984c0b9b5fbf56b597e
+  
   ![Profile views counter](https://komarev.com/ghpvc/?username=pluckypioneer&&style=flat-square)  
 
 </div>
