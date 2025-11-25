@@ -124,7 +124,4 @@ At the same time, I am also striving to become an amateur full-stack software en
   ![Profile views counter](https://komarev.com/ghpvc/?username=pluckypioneer&&style=flat-square)  
 
 </div>
-  
-
-  
 <br/>  
