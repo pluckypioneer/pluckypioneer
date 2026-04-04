@@ -36,12 +36,6 @@ At the same time, I am also striving to become an amateur full-stack software en
 <a href="https://linkedin.com/in/https://linkedin.com/in/john-zheng-b7a83028a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/john_zheng2005" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://cv.john-life.sbs/" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=MyWebsite style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 </td><td valign="top" width="50%">
@@ -85,8 +79,17 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 ## 📊Github Stats  
 
-[![plucypioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluckypioneer)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pluckypioneer&show_icons=true&theme=light&hide_border=true" alt="GitHub统计" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluckypioneer&layout=compact&theme=light&hide_border=true" alt="热门语言" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pluckypioneer&theme=light&hide_border=true" alt="连续贡献" />
+</div> 
 
 ## 👍Support Me
 
