@@ -85,7 +85,7 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 ## 📊Github Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluckypioneer)](https://github.com/anuraghazra/github-readme-stats)
+[![plucypioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluckypioneer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👍Support Me
