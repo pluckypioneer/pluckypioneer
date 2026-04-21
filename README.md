@@ -85,7 +85,7 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 ## Public service 公益服务
 
-> Wish they wil help you!
+> Wish they can help you!
 
 - [CF GeoIP Filter](https://ip.mynewworld.dpdns.org/)
 
@@ -101,6 +101,7 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 - [Travel Planner](https://cfosmap.mynewworld.dpdns.org/)
 
+---
 ## 👍Support Me
 
 <div align="left">
