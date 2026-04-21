@@ -93,7 +93,7 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 - [Best domain & Best IP](https://clonedns.john-life.sbs/)
 
-- [Pictures Bed](https://tc.john-life.sbs/)
+- [Image hosting service](https://tc.john-life.sbs/)
   
 - [NETWORK LOCATOR](https://where.john-life.sbs/home)
 
