@@ -89,13 +89,13 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 - [CF GeoIP Filter](https://ip.mynewworld.dpdns.org/)
 
-- [Sublink Worker](https://sublink.john-life.sbs/)
+- [Sublink Worker](https://sublink.imtheo.top/)
 
 - [Best domain & Best IP](https://clonedns.john-life.sbs/)
 
-- [Image hosting service](https://tc.john-life.sbs/)
+- [Image hosting service](https://tc.imtheo.top/)
   
-- [NETWORK LOCATOR](https://where.john-life.sbs/home)
+- [NETWORK LOCATOR](https://where.imtheo.top/home)
 
 - [Jmail](https://mail.john-life.sbs/inbox)
 
