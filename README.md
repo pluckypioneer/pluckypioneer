@@ -87,6 +87,10 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 > Wish they can help you!
 
+- [ToolBox](https://toolbox.imtheo.top/)
+
+- [NodeCryot](https://chat.edge.kdns.fr/)
+
 - [CF GeoIP Filter](https://ip.mynewworld.dpdns.org/)
 
 - [Sublink Worker](https://sublink.imtheo.top/)
