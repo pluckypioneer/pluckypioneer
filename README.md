@@ -110,8 +110,6 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 <div align="left">
 
-  <a href="https://paypal.me/yuhang05" target="_blank" style="display: inline-block; margin-right: 4px;" title="前往 PayPal">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" />
   </a><a href="javascript:void(0);" 
      onclick="copyToClipboard('bc1p3y9mskv67qq96j6ulm8yunup7gq2ksg8l2kw5pktmucxzyhqrwus7supvg')" 
      title="点击复制 BTC 地址" 
