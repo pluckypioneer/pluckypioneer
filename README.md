@@ -22,21 +22,21 @@ At the same time, I am also striving to become an amateur full-stack software en
 
 - 👀 I’m interested in Reading📚️ and Running🏃.  
   
-- 📫 Email: zhengyuhang2005@gmail.com  
+- 📫 Email: zhengyuhang2005 at gmail dot com  
 
 - 😄 Pronouns: He/Him
   
 <div align="center">
-<a href="https://github.com/pluckypioneer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://about.imtheo.top/" target="_blank">
+<img src="https://img.shields.io/badge/个人主页-%2317A2B8.svg?&style=for-the-badge&logo=web&logoColor=white" alt="个人主页" style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/john-zheng" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<a href="https://blog.imtheo.top/" target="_blank">
+<img src="https://img.shields.io/badge/博客-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="博客" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/john-zheng-b7a83028a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div> 
 
 </td><td valign="top" width="50%">
   
