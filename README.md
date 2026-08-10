@@ -114,5 +114,3 @@ At the same time, I am also striving to become an amateur full-stack software en
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=pluckypioneer&&style=flat-square" alt="Profile views counter" />
 </div>
-
-[![Visitor IP Info Card](https://my.ippure.com/v1/card)](https://ippure.com "Click to view IP information")
