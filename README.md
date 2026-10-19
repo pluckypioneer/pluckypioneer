@@ -29,10 +29,10 @@ At the same time, I am also striving to become an amateur full-stack software en
       </ul>
       <br/>
       <div align="center">
-        <a href="https://about.imtheo.top/" target="_blank">
+        <a href="https://about.zhen9.top/" target="_blank">
           <img src="https://img.shields.io/badge/个人主页-%2317A2B8.svg?&style=for-the-badge&logo=web&logoColor=white" alt="个人主页" height="38" />
         </a>
-        <a href="https://blog.imtheo.top/" target="_blank">
+        <a href="https://blog.zhen9.top/" target="_blank">
           <img src="https://img.shields.io/badge/博客-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="博客" height="38" />
         </a>
         <a href="https://linkedin.com/in/john-zheng-b7a83028a" target="_blank">
